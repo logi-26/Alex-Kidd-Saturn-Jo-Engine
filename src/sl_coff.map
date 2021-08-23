@@ -1,0 +1,2179 @@
+Archive member included because of file (symbol)
+
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_lib.o)
+                              ../jo_engine/video.o (CPK_Init)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_gfs.o)
+                              ../jo_engine/video.o (CPK_CreateGfsMovie)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_lib.o) (CPK_MeSetErrCode)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_time.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpk_InitClock)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_deb.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpkd_sys)
+../Compiler/SGL_302j/lib_coff/libcpk.a(slavesh.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (InitSlaveSH)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpk_InitVideo)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_etc.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpk_bit_msk)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_audi.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpk_Polling)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_scu.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (cpk_InitScuDspDma)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mc15.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o) (cpk_MakeCodeBook15from24)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_ra15.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o) (cpk_DecIntra15)
+../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_er15.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o) (cpk_DecInter15)
+../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_audi.o) (SND_StartPcm)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+                              ../jo_engine/fs.o (GFS_Init)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_DRV.O)
+                              ../jo_engine/audio.o (CDC_CdPlay)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_CMN.O)
+                              ../jo_engine/audio.o (CDC_CdInit)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (GFCF_Init)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_DIR.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (GFDR_SetupDirTbl)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (GFTR_Setup)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_BUF.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (GFBF_GetNumData)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDB.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O) (GFCB_Setup)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (GFCD_SetCdbfs)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_SUB.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_CMN.O) (CDSUB_UpdStatus)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_REG.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDB.O) (CDC_GetDataPtr)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_CFS.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O) (CDC_ChgDir)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_BIO.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O) (CDC_SetSctLen)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_SEL.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O) (CDC_SetFiltRange)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_BIF.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O) (CDC_GetBufSiz)
+../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_DEV.O)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O) (CDC_CdSetCon)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH00.o)
+                              main.o (Smpc_Peripheral)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglF00.o)
+                              pause.o (slCurColor)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI04.o)
+                              ../jo_engine/video.o (slIntFunction)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG01.o)
+                              ../jo_engine/audio.o (slSndVolume)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG00.o)
+                              ../jo_engine/audio.o (slInitSound)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG19.o)
+                              ../jo_engine/audio.o (slCDDAOn)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG25.o)
+                              ../jo_engine/audio.o (slPCMStat)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG21.o)
+                              ../jo_engine/audio.o (slPCMOn)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG22.o)
+                              ../jo_engine/audio.o (slPCMOff)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD00.o)
+                              ../jo_engine/sprites.o (slDMACopy)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA15.o)
+                              ../jo_engine/core.o (slSlaveFunc)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI01.o)
+                              ../jo_engine/core.o (slSynch)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o)
+                              ../jo_engine/core.o (slInitSystem)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB001.o)
+                              ../jo_engine/core.o (slTVOn)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB063.o)
+                              ../jo_engine/core.o (slPriority)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB016.o)
+                              ../jo_engine/core.o (slBack1ColSet)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB200.o)
+                              ../jo_engine/core.o (slCharNbg0)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB056.o)
+                              ../jo_engine/core.o (slPlaneNbg1)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB032.o)
+                              ../jo_engine/core.o (slMapNbg1)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB011.o)
+                              ../jo_engine/core.o (slBitMapNbg1)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB053.o)
+                              ../jo_engine/core.o (slZoomNbg1)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB015.o)
+                              ../jo_engine/core.o (slScrAutoDisp)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglF05.o)
+                              ../jo_engine/tools.o (slPrint)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH01.o)
+                              ../jo_engine/tools.o (slGetLanguage)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC06.o)
+                              ../jo_engine/sprites.o (slDispSprite)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD14.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (DMA_CpuResult)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD12.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (DMA_CpuMemCopy4)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD15.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o) (CSH_Purge)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD16.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O) (DMA_ScuSetPrm)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD17.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O) (DMA_ScuStart)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD18.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O) (DMA_ScuGetStatus)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD01.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O) (slDMAXCopy)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD03.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O) (slDMAStatus)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH02.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH00.o) (smpc_pfr_tbl)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH04.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH00.o) (slComPrmIntBack)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD02.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG00.o) (slDMAWait)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA00.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (_builtin_set_imask)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglK01.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (SynchCount)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA20.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (slInitMatrix)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB000.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (slInitScroll)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (SlaveControl)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI00.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (slInitInterrupt)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC00.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o) (slInitSprite)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB035.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB200.o) (rbank_set)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC20.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC06.o) (SpriteEntry)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA01.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC06.o) (sin_tbl)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ03.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o) (sbMakeDMATable)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ02.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o) (sbMakePolygon)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ04.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o) (sbMakeSprite)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ05.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o) (sbSortEntry)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH03.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI00.o) (slSmpcIntBack)
+../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglM01.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ02.o) (DepthWorkArea)
+../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_exit.o)
+                              ../jo_engine/core.o (SYS_Exit)
+../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_sub.o)
+                              ../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_exit.o) (SYSUB_SetStackptr)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(__main.o)
+                              ../Compiler/COMMON/cinit.o (__main)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_sf.o)
+                              main.o (__ltsf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_sf.o)
+                              main.o (__gtsf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_sf.o)
+                              main.o (__subsf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_sf.o)
+                              main.o (__mulsf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_le_sf.o)
+                              main.o (__lesf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_sf.o)
+                              main.o (__gesf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_sf.o)
+                              main.o (__floatsisf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_si.o)
+                              main.o (__fixsfsi)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sdivsi3.o)
+                              ../jo_engine/math.o (__sdivsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_sf.o)
+                              ../jo_engine/math.o (__divsf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_df.o)
+                              ../jo_engine/math.o (__extendsfdf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o)
+                              ../jo_engine/math.o (__subdf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_sf.o)
+                              ../jo_engine/math.o (__truncdfsf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftrt.o)
+                              ../jo_engine/time.o (__ashiftrt_r4_6)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lshiftrt.o)
+                              ../jo_engine/sprites.o (__lshrsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftrt_n.o)
+                              ../jo_engine/sprites.o (__ashrsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_df.o)
+                              ../jo_engine/sprites.o (__floatsidf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_df.o)
+                              ../jo_engine/sprites.o (__muldf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_df.o)
+                              ../jo_engine/sprites.o (__divdf3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_si.o)
+                              ../jo_engine/sprites.o (__fixdfsi)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftlt.o)
+                              ../jo_engine/time.o (__ashlsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivsi3.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (__udivsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_sf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_sf.o) (__unpack_f)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_sf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_sf.o) (__fpcmp_parts_f)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_sf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_sf.o) (__thenan_sf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_sf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_sf.o) (__pack_f)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_muldi3.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_sf.o) (__muldi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_df.o) (__make_dp)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o) (__thenan_df)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o) (__unpack_d)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o) (__pack_d)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_sf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_sf.o) (__make_fp)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mulsi3.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_muldi3.o) (__mulsi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sprintf.o)
+                              pause.o (sprintf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memcpy.o)
+                              ../jo_engine/video.o (memcpy)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncpy.o)
+                              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o) (strncpy)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memset.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o) (memset)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memcmp.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O) (memcmp)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncmp.o)
+                              ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_DIR.O) (strncmp)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(atexit.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(__main.o) (atexit)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sprintf.o) (_vfprintf_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(impure.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sprintf.o) (_impure_ptr)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(malloc.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(atexit.o) (malloc)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fvwrite.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__sfvwrite)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (localeconv)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (_free_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strlen.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (strlen)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__sinit)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fflush.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (fflush)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wsetup.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__swsetup)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcrtomb.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (_wcrtomb_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isinf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (isinf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memchr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (memchr)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mallocr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o) (__malloc_current_mallinfo)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcsrtombs.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (_wcsrtombs_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isnan.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (isnan)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (_dtoa_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memmove.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fvwrite.o) (memmove)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(reallocr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fvwrite.o) (_realloc_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strcmp.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o) (strcmp)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mlock.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o) (__malloc_lock)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sbrkr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o) (_sbrk_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o) (__sread)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fclose.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o) (fclose)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fwalk.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o) (_fwalk)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(makebuf.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wsetup.o) (__smakebuf)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wctomb_r.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcrtomb.o) (_wctomb_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mprec.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o) (__mprec_bigtens)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sbrkr.o) (_sbrk)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(readr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o) (_read_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(writer.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o) (_write_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(lseekr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o) (_lseek_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(closer.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o) (_close_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fstatr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(makebuf.o) (_fstat_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(callocr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mprec.o) (_calloc_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(trap.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o) (__trap34)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(abort.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o) (abort)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signal.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(abort.o) (raise)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signalr.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signal.o) (_kill_r)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_eq_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__eqdf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ne_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__nedf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__ltdf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivdi3.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__udivdi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_umoddi3.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o) (__umoddi3)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o) (__gtdf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o) (__gedf2)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_df.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_eq_df.o) (__fpcmp_parts_d)
+z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_clz.o)
+                              z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivdi3.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+__jo_last_error     0x40              ../jo_engine/core.o
+player              0x44              alex.o
+__jo_sprite_def     0x7f8             ../jo_engine/sprites.o
+cpk_cnt_vbl_in      0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+cpk_kikakuka_0_31_tbl
+                    0x180             ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+CPK_lib_stm_init    0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_lib.o)
+GFMC_base           0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+enemy_sprite_id     0x4               enemy.o
+cpk_process_copy_cb_tbl
+                    0x20              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+__jo_video_sprite_id
+                    0x4               ../jo_engine/video.o
+gfs_mng_ptr         0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+cpk_err_func        0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+sprite_id           0x4               enemy.o
+cpk_system_status   0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+gfcf_fad            0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O)
+physics             0x30              main.o
+cpk_cpu             0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+pickup_sprite_id    0x4               pickup.o
+blocks              0x578             block.o
+cpk_hn_mask         0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+__jo_hash_table     0x3fc             ../jo_engine/sprites.o
+enemies             0x120             enemy.o
+cpk_kikakuka_0_255_tbl
+                    0xc00             ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+gfcd_fatal_err      0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+cpk_pcm_play_address_last
+                    0x8               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_audi.o)
+__jo_sprite_anim_tab
+                    0xc0              ../jo_engine/sprite_animator.o
+__jo_sprite_pic     0x7f8             ../jo_engine/sprites.o
+cpk_hn_next         0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+gfs_use_scudma      0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+enemy_death_sprite_id
+                    0x4               enemy.o
+cpk_hn_tbl          0x80              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+cpk_version         0x20              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+cpkd_sys            0x24              ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_deb.o)
+cpk_err_code        0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+cpk_process_tbl     0x180             ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+pickups             0xa0              pickup.o
+errno               0x4               z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+gameState           0x4               main.o
+cpk_err_obj         0x4               ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+__jo_fs_background_job_count
+                    0x4               ../jo_engine/fs.o
+gfcd_work           0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+__jo_sprintf_buf    0x40              ../jo_engine/tools.o
+gfcf_stat           0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O)
+snd_adr_sys_int_work
+                    0x4               ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+gfcd_playflag       0x4               ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+snd_msk_work_work   0x4               ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+TARGET(coff-sh)
+
+SLSTART         0x06004000       0x30
+                0x06004000                ___Start = .
+ *(SLSTART)
+ SLSTART        0x06004000       0x28 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI00.o)
+                0x06004002                slStartSGL
+                0x06004000                SGL_Start
+
+.text           0x06004040    0x18e00
+ *(.text)
+ .text          0x06004040       0x30 main.o
+ .text          0x06004070       0x20 alex.o
+ .text          0x06004090       0x20 title.o
+ .text          0x060040b0       0x20 pause.o
+ .text          0x060040d0       0x20 enemy.o
+ .text          0x060040f0       0x20 pickup.o
+ .text          0x06004110       0x30 block.o
+ .text          0x06004140      0x100 ../jo_engine/video.o
+ .text          0x06004240       0xd0 ../jo_engine/tga.o
+ .text          0x06004310       0x50 ../jo_engine/audio.o
+ .text          0x06004360       0x90 ../jo_engine/font.o
+ .text          0x060043f0      0x130 ../jo_engine/core.o
+ .text          0x06004520       0x30 ../jo_engine/math.o
+ .text          0x06004550       0x60 ../jo_engine/malloc.o
+ .text          0x060045b0       0xf0 ../jo_engine/fs.o
+ .text          0x060046a0       0x30 ../jo_engine/tools.o
+ .text          0x060046d0       0xa0 ../jo_engine/sprites.o
+ .text          0x06004770       0x60 ../jo_engine/map.o
+ .text          0x060047d0       0x10 ../jo_engine/list.o
+ .text          0x060047e0       0x50 ../jo_engine/sprite_animator.o
+ .text          0x06004830       0xe0 ../jo_engine/image.o
+ .text          0x06004910      0xac4 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_lib.o)
+                0x06004aec                CPK_VblIn
+                0x06004ee0                CPK_GetHeader
+                0x06005038                CPK_GetWriteBuf
+                0x06004ca4                CPK_SetSpeed
+                0x06004dc8                CPK_SetDecodeAddr
+                0x06004cd4                CPK_EntryNext
+                0x06005020                CPK_SetCpu
+                0x06004c74                CPK_SetVolume
+                0x060052cc                CPK_AllocScuDsp
+                0x06005104                CPK_PreloadHeader
+                0x060052fc                CPK_SetStartTrgSize
+                0x06004c00                CPK_SetPcmStreamNo
+                0x06004f6c                CPK_IsKeyframe
+                0x06005204                CPK_SetSilenceRate
+                0x06004b04                CPK_Start
+                0x0600532c                CPK_GetStockSize
+                0x060052e4                CPK_FreeScuDsp
+                0x06005008                CPK_SetErrFunc
+                0x06004fa4                CPK_CompleteDisp
+                0x06004f10                CPK_IsDispTime
+                0x06004b8c                CPK_GetTime
+                0x06004c44                CPK_SetPan
+                0x0600494c                CPK_CreateMemMovie
+                0x06004db0                CPK_CheckChange
+                0x06004cec                CPK_Change
+                0x06005280                CPK_SetTrModeCd
+                0x060051a4                CPK_SetColor
+                0x06004e50                CPK_GetTimeScale
+                0x06005380                CPK_GetStockTime
+                0x06005070                CPK_NotifyWriteSize
+                0x06004e14                CPK_SetLoadNum
+                0x06004b5c                CPK_Pause
+                0x06005234                CPK_SetTrModePcm
+                0x06004eb0                CPK_GetPlayStatus
+                0x06004910                CPK_Init
+                0x06004a44                CPK_DestroyMemMovie
+                0x06004a94                CPK_Task
+                0x06004934                CPK_Finish
+                0x06004b30                CPK_Stop
+                0x060050ac                CPK_PreloadMovie
+                0x060051d4                CPK_SetKeyOutRange
+                0x06004ff0                CPK_GetErr
+ *fill*         0x060053d4        0xc 00
+ .text          0x060053e0      0x624 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_gfs.o)
+                0x06005684                CPK_GfsTask
+                0x060053e0                CPK_CreateGfsMovie
+                0x060058d8                CPK_GfsSetTrMode
+                0x060055ac                CPK_GfsCreate
+                0x0600597c                CPK_GfsGetStockTime
+                0x0600555c                CPK_DestroyGfsMovie
+                0x06005820                CPK_GfsPreloadMovie
+                0x0600566c                CPK_GfsStart
+                0x060056d0                cpkgfs_loadBuf
+                0x06005920                CPK_GfsGetStockSize
+                0x060055fc                CPK_GfsSetLoadNum
+ *fill*         0x06005a04        0xc 00
+ .text          0x06005a10     0x2338 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+                0x06006f2c                CPK_MeChange
+                0x06006590                cpk_WaitDmaFinish
+                0x06006bf8                CPK_MeSetDecodeTiming
+                0x060062c0                CPK_MeGetStockSize
+                0x06006334                CPK_MeGetHeader
+                0x06006cb0                CPK_MeSetSilenceRate
+                0x06006fc4                cpk_RequestDispFrameOn
+                0x06006cdc                cpk_CheckSeamless
+                0x06006ca0                CPK_MeSetCkeyCutoff
+                0x06006d74                cpk_StartNext
+                0x06005aec                cpk_InitPcm
+                0x06005af8                CPK_MeSetTrModePcm
+                0x06006114                CPK_MeRenewWrite
+                0x06006c6c                CPK_MeSetSpeed
+                0x06006348                CPK_MeStart
+                0x06006b0c                cpk_StartTimer
+                0x06005d6c                CPK_MeCreate
+                0x060065d8                CPK_MeStop
+                0x06005a9c                CPK_MeGetErrCode
+                0x06006324                CPK_MeGetStatus
+                0x0600683c                CPK_MePause
+                0x060074b4                cpk_FillSilence
+                0x06006314                CPK_MeGetPara
+                0x060061b8                cpk_ChkCopyFlop
+                0x060070c8                cpk_AudioProcess
+                0x06006e6c                CPK_MeCheckChange
+                0x06006358                cpk_RemoveReturnNoise
+                0x06005ac4                CPK_MeSetCpu
+                0x06005b24                CPK_MeInit
+                0x06005a34                CPK_MeSetErrCode
+                0x0600768c                cpk_VideoProcess
+                0x06006610                cpk_PauseOn
+                0x060062dc                CPK_MeGetStockTime
+                0x06006e5c                CPK_MeGetEntryNext
+                0x06006774                cpk_PauseOff
+                0x06006410                cpk_CheckDma
+                0x060063b8                CPK_MeAllocScuDsp
+                0x06005ff0                CPK_MeDestroy
+                0x06006c24                CPK_MeSetPan
+                0x06007060                CPK_MeRequestDispFrameOff
+                0x06006088                CPK_MeGetWrite
+                0x06006f60                CPK_MeGetHandle
+                0x060063ec                CPK_MeFreeScuDsp
+                0x060068a8                cpk_HeaderProcess
+                0x06006f90                CPK_MeIsCreate
+                0x06006c48                CPK_MeSetVolume
+                0x06005cf4                CPK_MeVblIn
+                0x06005bfc                CPK_MeFinish
+                0x06006cd0                CPK_MeSetStartTrgSize
+                0x06007a20                CPK_MeTask
+                0x06006e4c                CPK_MeEntryNext
+                0x06005c60                cpk_CountUpVblCnt
+                0x06006c14                CPK_MeSetColor
+                0x06006cc0                CPK_MeSetKomaotoshi
+                0x06005aac                CPK_MeSetErrFunc
+ *fill*         0x06007d48        0x8 00
+ .text          0x06007d50      0x8e0 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_time.o)
+                0x06008444                CPK_MeGetTimeTotal
+                0x06007e90                cpk_GetTimePcm
+                0x0600856c                cpk_Offset2Time
+                0x0600852c                cpk_AudioSize2Sample
+                0x06007dec                cpk_StartClock
+                0x06007d50                cpk_InitClock
+                0x06007d78                cpk_GetCount
+                0x06007f74                CPK_MeGetTime
+                0x06007e3c                cpk_GetClock
+ .text          0x06008630      0x184 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_deb.o)
+                0x06008630                CPKD_SetMode
+                0x06008728                CPKD_PrintStr
+                0x06008684                CPKD_Init
+                0x0600877c                CPKD_PrintData
+                0x06008640                CPKD_SetPrintAddr
+ *fill*         0x060087b4        0xc 00
+ .text          0x060087c0       0xfc ../Compiler/SGL_302j/lib_coff/libcpk.a(slavesh.o)
+                0x060087c4                InitSlaveSH
+                0x060087c1                SMPC_SSHOFF
+                0x0600886c                SlaveSHmain
+                0x060087c0                SMPC_SSHON
+ *fill*         0x060088bc        0x4 00
+ .text          0x060088c0     0x138c ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+                0x06009960                cpk_VideoSampleNone
+                0x06008c44                cpk_SeeThrough15
+                0x060094ec                cpk_VideoSampleCvid
+                0x060088c0                cpk_InitVideo
+ *fill*         0x06009c4c        0x4 00
+ .text          0x06009c50      0x20c ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_etc.o)
+                0x06009c50                cpk_bit_msk
+                0x06009cf4                cpk_MemsetDword
+                0x06009d78                cpk_MemmoveDword
+                0x06009cd0                cpk_bittbl
+                0x06009d10                cpk_MemcpyDword
+                0x06009dc0                cpk_RotateByte
+                0x06009d34                cpk_MemmoveByte
+                0x06009cd8                cpk_MemsetWord
+                0x06009e0c                cpk_RotateDword
+ *fill*         0x06009e5c        0x4 00
+ .text          0x06009e60      0x86e ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_audi.o)
+                0x0600a0ec                cpk_ChangePcmPara
+                0x0600a450                cpk_StopPcm
+                0x0600a004                cpk_InitPolling
+                0x0600a51c                cpk_RotatePcmbuf
+                0x0600a668                cpk_RenewPcmWrite
+                0x0600a240                cpk_StartPcm
+                0x0600a5b4                cpk_GetPcmWrite
+                0x06009f74                cpk_4ksampleProcess
+                0x0600a0a0                cpk_GetSmplingRatePcmLevel
+                0x0600a030                cpk_Polling
+ *fill*         0x0600a6ce        0x2 00
+ .text          0x0600a6d0       0xf0 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_scu.o)
+                0x0600a710                cpk_IsCompletedScuDspDma
+                0x0600a702                cpk_WaitCompletedScuDspDma
+                0x0600a6d0                cpk_InitScuDspDma
+                0x0600a6ec                cpk_TransScuDspDma
+ .text          0x0600a7c0      0x2a4 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mc15.o)
+                0x0600a7c0                cpk_MakeCodeBook15from24
+ *fill*         0x0600aa64        0xc 00
+ .text          0x0600aa70      0x12a ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_ra15.o)
+                0x0600aa70                cpk_DecIntra15
+ *fill*         0x0600ab9a        0x6 00
+ .text          0x0600aba0      0x152 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_er15.o)
+                0x0600aba0                cpk_DecInter15
+ *fill*         0x0600acf2        0xe 00
+ .text          0x0600ad00     0x10b4 ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+                0x0600ae78                SND_MoveData
+                0x0600b240                SND_OffAllSound
+                0x0600ba60                SND_GetSeqPlayPos
+                0x0600b318                SND_StopSeq
+                0x0600ad00                SND_Init
+                0x0600b3d8                SND_ContSeq
+                0x0600b0c8                SND_ChgMixPrm
+                0x0600b658                SND_StartPcm
+                0x0600af9c                SND_SetTlVl
+                0x0600b898                SND_StartVlAnl
+                0x0600bd60                SND_Set3D_Init
+                0x0600b438                SND_SetSeqVl
+                0x0600b05c                SND_ChgMix
+                0x0600bce8                SND_Set3D_Stat
+                0x0600b9bc                SND_SetCdDaPan
+                0x0600bc7c                SND_SetQSound
+                0x0600b378                SND_PauseSeq
+                0x0600baa4                SND_GetAnlTlVl
+                0x0600b7c8                SND_ChgPcm
+                0x0600affc                SND_ChgEfct
+                0x0600b52c                SND_CtrlDirMidi
+                0x0600b768                SND_StopPcm
+                0x0600b150                SND_ChkHard
+                0x0600b5e4                SND_SetSeqPan
+                0x0600b940                SND_SetCdDaLev
+                0x0600ba7c                SND_GetPcmPlayAdr
+                0x0600b294                SND_StartSeq
+                0x0600b8ec                SND_StopVlAnl
+                0x0600b4b0                SND_ChgTempo
+                0x0600b1ec                SND_StopDsp
+                0x0600bac0                SND_GetAnlHzVl
+                0x0600aec4                SND_ChgMap
+                0x0600ba38                SND_GetSeqStat
+ *fill*         0x0600bdb4        0xc 00
+ .text          0x0600bdc0     0x1adc ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+                0x0600bdc0                gfs_version
+                0x0600d030                gfs_mngGetNumFile
+                0x0600d78c                gfs_closeSub
+                0x0600cb4c                GFS_SetGmode
+                0x0600ce08                GFS_SetErrFunc
+                0x0600cf58                gfs_mngSetupFuncTbl
+                0x0600c118                GFS_Reset
+                0x0600ce80                gfs_chgRoot
+                0x0600cf4c                gfs_aborttrans
+                0x0600d230                gfs_svrAddHndl
+                0x0600d0e0                gfs_mngFreeGrp
+                0x0600ce58                GFS_ConvTno
+                0x0600d3e4                gfs_getRootDir
+                0x0600ce34                GFS_GetErrStat
+                0x0600c288                GFS_Seek
+                0x0600c8f8                GFS_NwStop
+                0x0600d0ec                gfs_mngTermAccess
+                0x0600c19c                GFS_Open
+                0x0600d098                GFS_mngAllocGrp
+                0x0600d7d4                gfs_isTaskDone
+                0x0600c5f8                GFS_Fread
+                0x0600cd50                GFS_StartTrans
+                0x0600d74c                gfs_GetFinfo
+                0x0600cf8c                gfs_mngInitWork
+                0x0600c3e0                GFS_ByteToSct
+                0x0600d1f0                gfs_svrSearchHndl
+                0x0600d4e0                gfs_loadRootDir
+                0x0600c03c                GFS_IdToName
+                0x0600c73c                GFS_NwFread
+                0x0600cc80                GFS_SetTransPara
+                0x0600c848                GFS_NwCdRead
+                0x0600d320                gfs_loadVol
+                0x0600cc1c                GFS_SetReadPara
+                0x0600c33c                GFS_Tell
+                0x0600cbb0                GFS_SetTmode
+                0x0600d6b4                GFS_GetFad
+                0x0600ccec                GFS_SetTrFunc
+                0x0600cd9c                GFS_CdMovePickup
+                0x0600bfd8                GFS_NameToId
+                0x0600ca10                GFS_NwExecOne
+                0x0600d568                gfs_flowIn
+                0x0600c498                GFS_GetFileInfo
+                0x0600d610                gfs_transData
+                0x0600d26c                gfs_svrRemoveHndl
+                0x0600c8c0                GFS_NwIsComplete
+                0x0600d7c8                gfs_getGmode
+                0x0600c964                GFS_NwGetStat
+                0x0600d2c8                GFS_OpenSub
+                0x0600bf70                GFS_SetDir
+                0x0600c43c                GFS_GetFileSize
+                0x0600c50c                GFS_GetNumCdbuf
+                0x0600d828                gfs_convFinStat
+                0x0600c534                GFS_Load
+                0x0600c694                gfs_waitRead
+                0x0600bec8                GFS_LoadDir
+                0x0600c0a8                GFS_GetDirInfo
+                0x0600c250                GFS_Close
+                0x0600bde0                GFS_Init
+                0x0600c9e0                gfs_recovRdErr
+                0x0600d170                gfs_mngSetErrCode
+                0x0600cad0                GFS_NwExecServer
+                0x0600c38c                GFS_IsEof
+                0x0600d70c                gfs_SetSct
+ *fill*         0x0600d89c        0x4 00
+ .text          0x0600d8a0      0x130 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_DRV.O)
+                0x0600d8a0                CDC_CdPlay
+                0x0600d96c                CDC_CdSeek
+                0x0600d9a0                CDC_CdScan
+ .text          0x0600d9d0      0x3a0 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_CMN.O)
+                0x0600db74                CDC_TgetToc
+                0x0600dd18                CDC_DataEnd
+                0x0600da38                CDC_GetPeriStat
+                0x0600dcac                CDC_DataReady
+                0x0600dc84                CDC_CdOpen
+                0x0600dc00                CDC_CdInit
+                0x0600dbc4                CDC_GetSes
+                0x0600da20                CDC_GetLastStat
+                0x0600d9d0                CDC_GetCurStat
+                0x0600db0c                CDC_GetHwInfo
+ .text          0x0600dd70      0x8d8 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O)
+                0x0600e264                GFCF_Seek
+                0x0600e36c                GFCF_GetStat
+                0x0600e24c                GFCF_Tell
+                0x0600de10                GFCF_Setup
+                0x0600e318                GFCF_cnvIntlvOfs
+                0x0600dd70                GFCF_Init
+                0x0600e204                GFCF_Recover
+                0x0600df58                GFCF_SetSct
+                0x0600e27c                GFCF_MovePickup
+                0x0600e440                gfcf_isCdOk
+                0x0600e010                GFCF_FlowInBuf
+                0x0600df9c                GFCF_GetFileInfo
+                0x0600e164                GFCF_StopInBuf
+                0x0600e404                gfcf_getSctSize
+                0x0600e500                gfcf_getPlayRange
+ *fill*         0x0600e648        0x8 00
+ .text          0x0600e650      0x92c ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_DIR.O)
+                0x0600eb40                gfdr_setNextRec
+                0x0600ef40                gfdr_setDirrecCd
+                0x0600e938                gfdr_open
+                0x0600e74c                GFDR_GetAtrDirId
+                0x0600ea20                gfdr_readByte
+                0x0600e650                GFDR_SetupDirTbl
+                0x0600eb18                gfdr_readLongNM
+                0x0600ebc4                gfdr_readDirEnt
+                0x0600e77c                GFDR_ChgRoot
+                0x0600e6c4                GFDR_NameToId
+                0x0600e808                gfdr_setupDirIdTbl
+                0x0600e764                GFDR_GetAtrDirName
+                0x0600e724                GFDR_GetInfoDirId
+                0x0600eacc                gfdr_readLongNB
+                0x0600e960                gfdr_read
+                0x0600ea4c                gfdr_readWord
+                0x0600e88c                gfdr_setupDirNameTbl
+                0x0600e738                GFDR_GetInfoDirName
+                0x0600e794                GFDR_ChgDir
+                0x0600ea78                gfdr_readWordNB
+ *fill*         0x0600ef7c        0x4 00
+ .text          0x0600ef80      0x9c6 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O)
+                0x0600f060                GFTR_SetTransMax
+                0x0600f430                gftr_execScu
+                0x0600f934                GFTR_SetTransFunc
+                0x0600f7fc                gftr_remTrn
+                0x0600f920                GFTR_SetData
+                0x0600f620                gftr_execSdma1
+                0x0600f870                gftr_copyFrac
+                0x0600f054                GFTR_GetNumTrans
+                0x0600eff4                GFTR_SetMode
+                0x0600f5f0                gftr_remDma0
+                0x0600f898                GFTR_GetLenData
+                0x0600f424                gftr_reqScu
+                0x0600f608                gftr_reqDma1
+                0x0600f340                gftr_getSrcPack
+                0x0600f8f0                GFTR_RtnDstPk
+                0x0600f50c                gfdma_exec
+                0x0600f724                gftr_execTrn
+                0x0600f238                GFTR_ExecSvr
+                0x0600f6b4                gftr_reqTrn
+                0x0600f57c                gfdma_getBytecnt
+                0x0600f65c                gftr_reqCpu
+                0x0600f8bc                GFTR_GetDstPack
+                0x0600f5b4                gftr_reqDma0
+                0x0600f1c0                GFTR_Idle
+                0x0600f078                GFTR_Pause
+                0x0600f048                GFTR_GetTransPara
+                0x0600f6a8                gftr_remCpu
+                0x0600f014                GFTR_SetTransPara
+                0x0600f644                gftr_remDma1
+                0x0600f084                GFTR_Stop
+                0x0600f5cc                gftr_execSdma0
+                0x0600efb0                GFTR_Setup
+                0x0600f4cc                gftr_remScu
+                0x0600f3c8                gftr_getDstPack
+                0x0600f500                gfdma_canUse
+                0x0600f13c                GFTR_Exec
+                0x0600f90c                GFTR_GetData
+                0x0600f06c                GFTR_Start
+                0x0600f008                GFTR_SetUnit
+                0x0600f668                gftr_execCpu
+                0x0600f8a4                GFTR_GetLenRoom
+ *fill*         0x0600f946        0xa 00
+ .text          0x0600f950      0x106 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_BUF.O)
+                0x0600f9a8                GFBF_GetNumData
+                0x0600fa24                GFBF_RtnPk
+                0x0600f9d8                GFBF_GetSrcPk
+                0x0600fa4c                gfbf_getSctDt
+                0x0600f980                GFBF_GetTranData
+                0x0600fa00                GFBF_GetSctData
+ *fill*         0x0600fa56        0xa 00
+ .text          0x0600fa60      0x600 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDB.O)
+                0x06010008                GFCB_GetPickup
+                0x0600fb80                GFCB_Close
+                0x0600fe4c                GFCB_GetSrcPack
+                0x0600ffd4                GFCB_SetCon
+                0x0600fc54                GFCB_GetLenRoom
+                0x0600ffb8                GFCB_MovePickup
+                0x0600ff2c                GFCB_GetSctData
+                0x0600fc60                GFCB_SetFilt
+                0x0600fba8                GFCB_GetLenData
+                0x06010048                GFCB_UngetPickup
+                0x0600fa60                GFCB_Setup
+                0x0600fcf0                GFCB_Tell
+                0x06010030                GFCB_IsPuOwner
+                0x0600fd50                GFCB_Seek
+                0x0600fcc8                GFCB_DeleteAllData
+                0x0600ff64                GFCB_GetDstPack
+                0x0600fd00                gfcb_getSctNum
+                0x0600ff70                GFCB_RtnPk
+ .text          0x06010060     0x1a10 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+                0x060102fc                GFCD_AllocBuf
+                0x060110e4                gfcd_doGetLenDataTsk
+                0x06011980                GFCD_SetCsctFunc
+                0x060103d4                GFCD_GetBaseFad
+                0x06010550                GFCD_GetFilt
+                0x06011570                gfcd_doChgDirTsk
+                0x060118b0                gfcd_checkEflag
+                0x06010898                GFCD_MovePickup
+                0x0601097c                GFCD_GetSctInfo
+                0x06011238                gfcd_doReqDataTsk
+                0x060109c4                GFCD_ChgDir
+                0x060106b8                GFCD_ReqData
+                0x0601199c                GFCD_ChkScdqFlag
+                0x06010e54                GFCD_WaitServer
+                0x0601075c                GFCD_DelSctData
+                0x06010c34                GFCD_ExecServer
+                0x06011054                gfcd_doSetConTsk
+                0x06010290                GFCD_AllocFilt
+                0x0601048c                GFCD_SetFilt
+                0x06010e90                gfcd_doSetFiltTsk
+                0x060119c0                GFCD_ClrScdqFlag
+                0x060112d8                gfcd_doDelSctDataTsk
+                0x06010d94                gfcd_doTask
+                0x06010408                GFCD_GetPickup
+                0x06010958                GFCD_CheckMove
+                0x060119dc                GFCD_WaitScdqFlag
+                0x060105f0                GFCD_Play
+                0x0601140c                gfcd_doMoveSctTsk
+                0x06010598                GFCD_SetCon
+                0x06010a38                GFCD_SetFiltCon
+                0x06011a20                GFCD_WaitPause
+                0x06010bfc                GFCD_GetBufSiz
+                0x0601043c                GFCD_UngetPickup
+                0x06010b20                GFCD_GetFileInfo
+                0x06010714                GFCD_EndData
+                0x06010330                GFCD_FreeBuf
+                0x06010650                GFCD_GetLenData
+                0x060102cc                GFCD_FreeFilt
+                0x06010d08                gfcd_isIdleTask
+                0x0601008c                GFCD_Init
+                0x0601176c                gfcd_doSetFiltConTsk
+                0x060107e4                GFCD_GetStat
+                0x060108e4                GFCD_MoveSctData
+                0x06010468                GFCD_IsPuOwner
+                0x060118d4                gfcd_initCdbMng
+                0x06010060                GFCD_SetCdbfs
+                0x06010e40                GFCD_SetTimer
+                0x06011954                gfcd_setStat
+                0x060107b4                GFCD_CheckDelSctData
+ .text          0x06011a70      0x152 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_SUB.O)
+                0x06011b18                CDSUB_GetCdstat
+                0x06011a88                CDSUB_UpdCdstat
+                0x06011b58                CDSUB_RspToCdstat
+                0x06011ba0                CDSUB_SoftTimer
+                0x06011a70                CDSUB_UpdStatus
+                0x06011aa8                CDSUB_CdCmd
+ *fill*         0x06011bc2        0xe 00
+ .text          0x06011bd0      0x2dc ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_REG.O)
+                0x06011c24                CDREG_ClrHirqReq
+                0x06011bf4                CDC_ClrHirqReq
+                0x06011ca4                CDREG_TgetData
+                0x06011c94                CDC_GetMpegPtr
+                0x06011c70                CDC_GetHirqMsk
+                0x06011bd0                CDC_GetDataPtr
+                0x06011be0                CDC_GetHirqReq
+                0x06011e00                CDREG_WaitHirq
+                0x06011c84                CDC_SetHirqMsk
+                0x06011d00                CDREG_CmdRsp
+                0x06011c34                CDREG_InitHirqReq
+                0x06011c5c                CDREG_SetHirqFlag
+                0x06011e70                CDREG_ReadRsp
+ *fill*         0x06011eac        0x4 00
+ .text          0x06011eb0      0x194 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_CFS.O)
+                0x06011eb0                CDC_ChgDir
+                0x06011ee4                CDC_ReadDir
+                0x06012008                CDC_AbortFile
+                0x06011f18                CDC_GetFileScope
+                0x06011f78                CDC_TgetFileInfo
+                0x06011fd4                CDC_ReadFile
+ *fill*         0x06012044        0xc 00
+ .text          0x06012050      0x1e4 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_BIO.O)
+                0x060120fc                CDC_GetdelSctData
+                0x06012084                CDC_GetSctData
+                0x06012138                CDC_PutSctData
+                0x060121b4                CDC_MoveSctData
+                0x060121f8                CDC_GetCopyErr
+                0x060120c0                CDC_DelSctData
+                0x06012050                CDC_SetSctLen
+                0x06012170                CDC_CopySctData
+ *fill*         0x06012234        0xc 00
+ .text          0x06012240      0x2b8 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_SEL.O)
+                0x06012470                CDC_GetFiltCon
+                0x060123ec                CDC_GetFiltMode
+                0x060124c4                CDC_ResetSelector
+                0x06012240                CDC_SetFiltRange
+                0x060122cc                CDC_SetFiltSubh
+                0x0601233c                CDC_GetFiltSubh
+                0x06012274                CDC_GetFiltRange
+                0x060123b8                CDC_SetFiltMode
+                0x06012430                CDC_SetFiltCon
+ *fill*         0x060124f8        0x8 00
+ .text          0x06012500      0x270 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_BIF.O)
+                0x0601255c                CDC_GetSctNum
+                0x060126dc                CDC_ExeFadSearch
+                0x0601265c                CDC_GetSctInfo
+                0x060125a0                CDC_CalActSiz
+                0x06012500                CDC_GetBufSiz
+                0x060125dc                CDC_GetActSiz
+                0x06012714                CDC_GetFadSearch
+ .text          0x06012770       0xa8 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_DEV.O)
+                0x060127dc                CDC_CdGetLastBuf
+                0x06012770                CDC_CdSetCon
+                0x060127a0                CDC_CdGetCon
+ *fill*         0x06012818        0x8 00
+ .text          0x06012820      0x128 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o)
+                0x06012820                slInitSystem
+ *fill*         0x06012948        0x8 00
+ .text          0x06012950      0x238 ../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_exit.o)
+                0x06012970                SYS_Exit
+                0x06012950                sys_version
+ *fill*         0x06012b88        0x8 00
+ .text          0x06012b90        0x6 ../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_sub.o)
+                0x06012b90                SYSUB_SetStackptr
+ *fill*         0x06012b96        0xa 00
+ .text          0x06012ba0       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(__main.o)
+                0x06012c14                __main
+                0x06012ba0                __do_global_dtors
+                0x06012bd4                __do_global_ctors
+ .text          0x06012c40       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_sf.o)
+                0x06012c40                __ltsf2
+ .text          0x06012cb0       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_sf.o)
+                0x06012cb0                __gtsf2
+ .text          0x06012d20      0x250 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_sf.o)
+                0x06012eb4                __subsf3
+                0x06012f14                __addsf3
+ .text          0x06012f70      0x170 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_sf.o)
+                0x06012f70                __mulsf3
+ .text          0x060130e0       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_le_sf.o)
+                0x060130e0                __lesf2
+ .text          0x06013150       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_sf.o)
+                0x06013150                __gesf2
+ .text          0x060131c0       0x90 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_sf.o)
+                0x060131c0                __floatsisf
+ .text          0x06013250       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_si.o)
+                0x06013250                __fixsfsi
+ .text          0x060132f0       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sdivsi3.o)
+                0x060132f0                __sdivsi3
+ .text          0x06013390      0x120 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_sf.o)
+                0x06013390                __divsf3
+ .text          0x060134b0      0x100 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_df.o)
+                0x060134b0                __extendsfdf2
+ .text          0x060135b0      0x350 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o)
+                0x0601383c                __subdf3
+                0x060138a0                __adddf3
+ .text          0x06013900       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_sf.o)
+                0x06013900                __truncdfsf2
+ .text          0x06013970       0x60 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftrt.o)
+                0x0601397c                __ashiftrt_r4_27
+                0x060139b0                __ashiftrt_r4_6
+                0x060139a0                __ashiftrt_r4_14
+                0x06013992                __ashiftrt_r4_19
+                0x060139aa                __ashiftrt_r4_9
+                0x060139be                __ashiftrt_r4_0
+                0x06013970                __ashiftrt_r4_31
+                0x0601397e                __ashiftrt_r4_26
+                0x0601398c                __ashiftrt_r4_22
+                0x06013998                __ashiftrt_r4_16
+                0x060139a4                __ashiftrt_r4_12
+                0x06013978                __ashiftrt_r4_29
+                0x06013996                __ashiftrt_r4_17
+                0x06013976                __ashiftrt_r4_30
+                0x060139b2                __ashiftrt_r4_5
+                0x060139ac                __ashiftrt_r4_8
+                0x06013970                __ashiftrt_r4_32
+                0x06013980                __ashiftrt_r4_25
+                0x060139b8                __ashiftrt_r4_2
+                0x06013982                __ashiftrt_r4_24
+                0x0601399e                __ashiftrt_r4_15
+                0x060139a8                __ashiftrt_r4_10
+                0x060139ba                __ashiftrt_r4_1
+                0x0601397a                __ashiftrt_r4_28
+                0x06013990                __ashiftrt_r4_20
+                0x060139ae                __ashiftrt_r4_7
+                0x060139a2                __ashiftrt_r4_13
+                0x060139a6                __ashiftrt_r4_11
+                0x060139b4                __ashiftrt_r4_4
+                0x0601398a                __ashiftrt_r4_23
+                0x06013994                __ashiftrt_r4_18
+                0x0601398e                __ashiftrt_r4_21
+                0x060139b6                __ashiftrt_r4_3
+ .text          0x060139d0       0x90 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lshiftrt.o)
+                0x060139d0                __lshrsi3
+ .text          0x06013a60       0x90 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftrt_n.o)
+                0x06013a60                __ashrsi3
+ .text          0x06013af0       0xb0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_df.o)
+                0x06013af0                __floatsidf
+ .text          0x06013ba0      0x3b0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_df.o)
+                0x06013bb0                __muldf3
+ .text          0x06013f50      0x1b0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_df.o)
+                0x06013f58                __divdf3
+ .text          0x06014100      0x100 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_si.o)
+                0x06014100                __fixdfsi
+ .text          0x06014200       0x90 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ashiftlt.o)
+                0x06014200                __ashlsi3
+ .text          0x06014290       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivsi3.o)
+                0x060142b2                __udivsi3
+ .text          0x06014300       0xc0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_sf.o)
+                0x06014300                __unpack_f
+ .text          0x060143c0       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_sf.o)
+                0x060143c0                __fpcmp_parts_f
+ .text          0x06014460       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_sf.o)
+                0x06014460                __thenan_sf
+ .text          0x06014470      0x1c0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_sf.o)
+                0x06014470                __pack_f
+ .text          0x06014630       0xd0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_muldi3.o)
+                0x06014630                __muldi3
+ .text          0x06014700       0x30 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_df.o)
+                0x06014700                __make_dp
+ .text          0x06014730       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_df.o)
+                0x06014730                __thenan_df
+ .text          0x06014750      0x180 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_df.o)
+                0x06014760                __unpack_d
+ .text          0x060148d0      0x5f0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_df.o)
+                0x060148e0                __pack_d
+ .text          0x06014ec0       0x30 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_sf.o)
+                0x06014ec0                __make_fp
+ .text          0x06014ef0       0x30 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mulsi3.o)
+                0x06014ef0                __mulsi3
+ .text          0x06014f20       0xb0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sprintf.o)
+                0x06014f70                sprintf
+                0x06014f20                _sprintf_r
+ .text          0x06014fd0       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memcpy.o)
+                0x06014fd0                memcpy
+ .text          0x06015070       0xd0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncpy.o)
+                0x06015070                strncpy
+ .text          0x06015140       0x40 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memset.o)
+                0x06015140                memset
+ .text          0x06015180       0x80 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memcmp.o)
+                0x06015180                memcmp
+ .text          0x06015200      0x100 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncmp.o)
+                0x06015200                strncmp
+ .text          0x06015300       0x90 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(atexit.o)
+                0x06015300                atexit
+ .text          0x06015390     0x1d20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o)
+                0x06015448                _vfprintf_r
+                0x06017088                vfprintf
+ .text          0x060170b0       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(impure.o)
+                0x060170b0                _global_impure_ptr
+ .text          0x060170c0       0x40 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(malloc.o)
+                0x060170dc                free
+                0x060170c0                malloc
+ .text          0x06017100      0x300 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fvwrite.o)
+                0x06017100                __sfvwrite
+ .text          0x06017400      0x100 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o)
+                0x060174c8                setlocale
+                0x06017448                _setlocale_r
+                0x060174a4                __locale_charset
+                0x060174e8                localeconv
+                0x060174b8                _localeconv_r
+ .text          0x06017500      0x360 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o)
+                0x06017500                _malloc_trim_r
+                0x060175e8                _free_r
+ .text          0x06017860       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strlen.o)
+                0x06017860                strlen
+ .text          0x06017880      0x270 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o)
+                0x06017994                __sfp
+                0x0601791c                __sfp_lock_acquire
+                0x06017ac4                __fp_unlock_all
+                0x06017988                __sfp_lock_release
+                0x06017928                __sinit
+                0x06017a74                _cleanup
+                0x06017aa4                __fp_lock_all
+                0x06017a5c                _cleanup_r
+                0x060178c4                __sfmoreglue
+ .text          0x06017af0       0xd0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fflush.o)
+                0x06017af0                fflush
+ .text          0x06017bc0       0xf0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wsetup.o)
+                0x06017bc0                __swsetup
+ .text          0x06017cb0       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcrtomb.o)
+                0x06017cb0                _wcrtomb_r
+                0x06017cfc                wcrtomb
+ .text          0x06017d20       0x40 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isinf.o)
+                0x06017d20                isinf
+ .text          0x06017d60       0xd0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memchr.o)
+                0x06017d60                memchr
+ .text          0x06017e30      0x6a0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mallocr.o)
+                0x06017e30                _malloc_r
+ .text          0x060184d0      0x130 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcsrtombs.o)
+                0x060184d0                _wcsrtombs_r
+                0x060185c4                wcsrtombs
+ .text          0x06018600       0x40 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isnan.o)
+                0x06018600                isnan
+ .text          0x06018640     0x1310 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o)
+                0x060187e4                _dtoa_r
+ .text          0x06019950       0xe0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memmove.o)
+                0x06019950                memmove
+ .text          0x06019a30      0x450 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(reallocr.o)
+                0x06019a30                _realloc_r
+ .text          0x06019e80       0x30 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strcmp.o)
+                0x06019e80                strcmp
+ .text          0x06019eb0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mlock.o)
+                0x06019eb0                __malloc_lock
+                0x06019ebc                __malloc_unlock
+ .text          0x06019ed0       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sbrkr.o)
+                0x06019ed0                _sbrk_r
+ .text          0x06019f20      0x170 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o)
+                0x06019f78                __swrite
+                0x0601a068                __sclose
+                0x06019f20                __sread
+                0x0601a008                __sseek
+ .text          0x0601a090      0x130 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fclose.o)
+                0x0601a090                _fclose_r
+                0x0601a19c                fclose
+ .text          0x0601a1c0      0x200 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fwalk.o)
+                0x0601a334                _fwalk_reent
+                0x0601a2b0                _fwalk
+ .text          0x0601a3c0      0x150 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(makebuf.o)
+                0x0601a3c0                __smakebuf
+ .text          0x0601a510      0x2c0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wctomb_r.o)
+                0x0601a530                _wctomb_r
+ .text          0x0601a7d0      0xdc0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mprec.o)
+                0x0601b010                __mcmp
+                0x0601b494                _ratio
+                0x0601ac6c                _i2b
+                0x0601b20c                _b2d
+                0x0601aa64                _s2b
+                0x0601ab3c                _hi0bits
+                0x0601ae40                _pow5mult
+                0x0601b054                __mdiff
+                0x0601af18                _lshift
+                0x0601ac90                _multiply
+                0x0601b360                _d2b
+                0x0601a8e8                _Balloc
+                0x0601a7d0                __mprec_tinytens
+                0x0601b528                _mprec_log10
+                0x0601a7f8                __mprec_bigtens
+                0x0601b174                _ulp
+                0x0601a978                _Bfree
+                0x0601a820                __mprec_tens
+                0x0601aba4                _lo0bits
+                0x0601a998                _multadd
+ .text          0x0601b590      0x390 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+                0x0601b700                _exit
+                0x0601b734                _getpid
+                0x0601b79c                _utime
+                0x0601b5c8                _write
+                0x0601b590                _read
+                0x0601b6e8                _unlink
+                0x0601b6b0                _open
+                0x0601b74c                _stat
+                0x0601b6f4                isatty
+                0x0601b7cc                _wait
+                0x0601b718                _kill
+                0x0601b768                _chmod
+                0x0601b7fc                _execv
+                0x0601b7e0                _execve
+                0x0601b8dc                __setup_argv_and_call_main
+                0x0601b834                _gettimeofday
+                0x0601b5fc                _link
+                0x0601b740                _raise
+                0x0601b6cc                _creat
+                0x0601b814                _pipe
+                0x0601b780                _chown
+                0x0601b5ac                _lseek
+                0x0601b5e4                _close
+                0x0601b828                _times
+                0x0601b69c                _fstat
+                0x0601b7b8                _fork
+                0x0601b624                _sbrk
+ .text          0x0601b920       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(readr.o)
+                0x0601b920                _read_r
+ .text          0x0601b970       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(writer.o)
+                0x0601b970                _write_r
+ .text          0x0601b9c0       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(lseekr.o)
+                0x0601b9c0                _lseek_r
+ .text          0x0601ba10       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(closer.o)
+                0x0601ba10                _close_r
+ .text          0x0601ba60       0x50 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fstatr.o)
+                0x0601ba60                _fstat_r
+ .text          0x0601bab0       0xa0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(callocr.o)
+                0x0601bab0                _calloc_r
+ .text          0x0601bb50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(trap.o)
+                0x0601bb50                __trap34
+ .text          0x0601bb70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(abort.o)
+                0x0601bb70                abort
+ .text          0x0601bb90      0x260 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signal.o)
+                0x0601bc4c                _raise_r
+                0x0601bdd0                __sigtramp
+                0x0601bd7c                raise
+                0x0601bdb8                _init_signal
+                0x0601bd08                __sigtramp_r
+                0x0601bd98                signal
+                0x0601bbdc                _signal_r
+                0x0601bb90                _init_signal_r
+ .text          0x0601bdf0       0x60 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signalr.o)
+                0x0601be38                _getpid_r
+                0x0601bdf0                _kill_r
+ .text          0x0601be50       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_eq_df.o)
+                0x0601be50                __eqdf2
+ .text          0x0601bec0       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ne_df.o)
+                0x0601bec0                __nedf2
+ .text          0x0601bf30       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_df.o)
+                0x0601bf30                __ltdf2
+ .text          0x0601bfa0      0x610 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivdi3.o)
+                0x0601bfa0                __udivdi3
+ .text          0x0601c5b0      0x600 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_umoddi3.o)
+                0x0601c5b0                __umoddi3
+ .text          0x0601cbb0       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_df.o)
+                0x0601cbb0                __gtdf2
+ .text          0x0601cc20       0x70 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_df.o)
+                0x0601cc20                __gedf2
+ .text          0x0601cc90       0xb0 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_df.o)
+                0x0601cc90                __fpcmp_parts_d
+ .text          0x0601cd40      0x100 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_clz.o)
+                0x0601cd40                __clz_tab
+ *(.strings)
+                0x0601ce40                __etext = .
+
+.rodata
+ *(.rodata)
+
+SLPROG          0x0601ce40    0x106e0
+                0x0601ce40                __slprog_start = .
+ *(SLPROG)
+ SLPROG         0x0601ce40     0x6540 ../Compiler/SGL_302j/lib_coff/sglarea.o
+                0x0601ce5c                SpriteBuf
+                0x0601ce80                RemainEvent
+                0x0601ce4c                SortList
+                0x0601ce4a                MaxPolygons
+                0x0601ce68                CommandBuf
+                0x0601ce7c                MaxWorks
+                0x0601ce7e                WorkSize
+                0x0601ce74                PCM_WkSize
+                0x0601ce6c                CLOfstBuf
+                0x0601cf80                RemainWork
+                0x0601ce70                PCM_Work
+                0x0601ce40                MasterStack
+                0x0601ce44                SlaveStack
+                0x0601ce48                MaxVertices
+                0x0601ce78                MaxEvents
+                0x0601ce58                Zbuffer
+                0x0601ce60                SpriteBufSize
+                0x0601f380                WorkBuf
+                0x0601ce54                TransList
+                0x0601ce64                Pbuffer
+                0x0601ce50                SortListSize
+                0x0601ce7a                EventSize
+                0x0601d380                EventBuf
+ SLPROG         0x06023380      0xfc8 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH00.o)
+                0x0602341c                slSetPortData1
+                0x0602340c                slGetPortData1
+                0x06023bfa                slSetPortMode1
+                0x06023e34                Smpc_Status
+                0x060233d2                slSetPortDir2
+                0x06023a18                slSmpcCashSend
+                0x06023438                slGetPortSelect1
+                0x0602381e                slIntBackCancel
+                0x060234d0                slSetPortExt1
+                0x06023be0                slGetPortMode1
+                0x06023ad4                slSmpcCashBlow
+                0x06023dc4                slRequestCommand
+                0x06023e64                SmpcStatusBuf
+                0x06023426                slSetPortData2
+                0x06023786                slSetResultBuffer
+                0x060234bc                slGetPortExt1
+                0x06023500                slSetPortExt2
+                0x060233a0                slGetPortDir2
+                0x060234c6                slGetPortExt2
+                0x06023852                slClearReset
+                0x06023848                slCheckReset
+                0x060233a8                slSetPortDir1
+                0x06023480                slSetPortSelect2
+                0x0602344c                slSetPortSelect1
+                0x06023bec                slGetPortMode2
+                0x06023442                slGetPortSelect2
+                0x06023398                slGetPortDir1
+                0x06023414                slGetPortData2
+                0x06023bba                slSetOptimize
+                0x06023bb0                slGetOptimize
+                0x06023674                slSmpcDirectAccess
+                0x06023e42                Per_Connect1
+                0x060236f4                slInitPeripheral
+                0x06023812                slCheckIntBackSet
+                0x06023e43                Per_Connect2
+                0x06023e3c                Smpc_Peripheral
+                0x06023c38                slSetPortMode2
+                0x06023e38                Smpc_Result
+ *fill*         0x06024348        0x8 00
+ SLPROG         0x06024350       0x4e ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglF00.o)
+                0x0602436a                slLocate
+                0x06024360                slCurColor
+                0x0602439c                CurrentScreen
+                0x06024350                slCurScrn
+ *fill*         0x0602439e        0x2 00
+ SLPROG         0x060243a0       0x10 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI04.o)
+                0x060243a0                slIntFunction
+ SLPROG         0x060243b0       0x18 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG01.o)
+                0x060243b0                slSndVolume
+ *fill*         0x060243c8        0x8 00
+ SLPROG         0x060243d0      0x1d0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG00.o)
+                0x060243d0                slInitSound
+                0x060244ec                slSndFlush
+                0x060244d4                slWaitSound
+ SLPROG         0x060245a0       0x4c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG19.o)
+                0x060245a0                slCDDAOn
+ *fill*         0x060245ec        0x4 00
+ SLPROG         0x060245f0       0x18 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG25.o)
+                0x060245f0                slPCMStat
+ *fill*         0x06024608        0x8 00
+ SLPROG         0x06024610      0x1e0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG21.o)
+                0x06024618                slPCMOn
+                0x06024736                slSndPCMNum
+ SLPROG         0x060247f0       0x48 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglG22.o)
+                0x060247f0                slPCMOff
+ *fill*         0x06024838        0x8 00
+ SLPROG         0x06024840       0x84 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD00.o)
+                0x06024840                slDMACopy
+                0x06024840                slCpuDMACopy
+                0x0602489a                slCashPurge
+                0x0602489a                CSH_AllClr
+ *fill*         0x060248c4        0xc 00
+ SLPROG         0x060248d0       0x18 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA15.o)
+                0x060248d0                slSlaveFunc
+ *fill*         0x060248e8        0x8 00
+ SLPROG         0x060248f0      0x3a4 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI01.o)
+                0x06024ada                RetPCMBuf
+                0x06024c14                Sound_Buf
+                0x060248f0                slInitSynch
+                0x06024a00                slRandom
+                0x06024b74                PCM_Buf
+                0x0602490a                slSynch
+                0x06024a1e                PCM_EndCheck
+ *fill*         0x06024c94        0xc 00
+ SLPROG         0x06024ca0       0x20 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB001.o)
+                0x06024ca0                slTVOn
+                0x06024caa                slTVOff
+ SLPROG         0x06024cc0        0xc ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB063.o)
+                0x06024cc0                slPriority
+ *fill*         0x06024ccc        0x4 00
+ SLPROG         0x06024cd0        0xc ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB016.o)
+                0x06024cd0                slBack1ColSet
+ *fill*         0x06024cdc        0x4 00
+ SLPROG         0x06024ce0      0x114 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB200.o)
+                0x06024cec                slCharNbg0
+                0x06024d32                slPageRbg0
+                0x06024d48                slPageNbg1
+                0x06024cf8                slCharNbg1
+                0x06024d64                slPageNbg0
+                0x06024d50                slPageNbg2
+                0x06024d58                slPageNbg3
+                0x06024d04                slCharNbg2
+                0x06024d1a                slCharNbg3
+                0x06024ce0                slCharRbg0
+ *fill*         0x06024df4        0xc 00
+ SLPROG         0x06024e00        0xc ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB056.o)
+                0x06024e00                slPlaneNbg1
+ *fill*         0x06024e0c        0x4 00
+ SLPROG         0x06024e10       0xb4 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB032.o)
+                0x06024e10                slMapNbg1
+ *fill*         0x06024ec4        0xc 00
+ SLPROG         0x06024ed0       0x24 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB011.o)
+                0x06024ed0                slBitMapNbg1
+ *fill*         0x06024ef4        0xc 00
+ SLPROG         0x06024f00        0xc ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB053.o)
+                0x06024f00                slZoomNbg1
+ *fill*         0x06024f0c        0x4 00
+ SLPROG         0x06024f10      0x40c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB015.o)
+                0x06024f10                slScrAutoDisp
+ *fill*         0x0602531c        0x4 00
+ SLPROG         0x06025320       0x1c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglF05.o)
+                0x06025320                slPrint
+ *fill*         0x0602533c        0x4 00
+ SLPROG         0x06025340       0xa8 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH01.o)
+                0x060253a0                slSetSoundOutput
+                0x06025378                slSetSoundEffect
+                0x0602536c                slGetSoundEffect
+                0x06025394                slGetSoundOutput
+                0x060253bc                slGetHelpWindow
+                0x06025340                slGetLanguage
+                0x0602534a                slSetLanguage
+                0x060253c8                slSetHelpWindow
+ *fill*         0x060253e8        0x8 00
+ SLPROG         0x060253f0       0xfa ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC06.o)
+                0x060253f0                slDispSprite
+ *fill*         0x060254ea        0x6 00
+ SLPROG         0x060254f0       0x18 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD14.o)
+                0x060254f0                DMA_CpuResult
+ *fill*         0x06025508        0x8 00
+ SLPROG         0x06025510       0x14 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD12.o)
+                0x06025510                DMA_CpuMemCopy4
+ *fill*         0x06025524        0xc 00
+ SLPROG         0x06025530       0x20 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD15.o)
+                0x06025530                CSH_Purge
+ SLPROG         0x06025550       0x84 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD16.o)
+                0x06025598                DMA_SCU_PRM0
+                0x06025550                DMA_ScuSetPrm
+ *fill*         0x060255d4        0xc 00
+ SLPROG         0x060255e0       0x88 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD17.o)
+                0x060255e0                DMA_ScuStart
+ *fill*         0x06025668        0x8 00
+ SLPROG         0x06025670       0x34 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD18.o)
+                0x06025670                DMA_ScuGetStatus
+ *fill*         0x060256a4        0xc 00
+ SLPROG         0x060256b0       0xa0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD01.o)
+                0x060256b0                slDMAXCopy
+ SLPROG         0x06025750        0xc ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD03.o)
+                0x06025750                slDMAStatus
+ *fill*         0x0602575c        0x4 00
+ SLPROG         0x06025760      0x470 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH02.o)
+                0x06025b50                smpc_pfr_tbl
+                0x06025b90                smpc_ptf_tbl
+ SLPROG         0x06025bd0       0x60 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH04.o)
+                0x06025bfa                slComPrmSetTime
+                0x06025bd0                slComPrmIntBack
+                0x06025be4                slComPrmSetMemory
+ SLPROG         0x06025c30       0x10 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglD02.o)
+                0x06025c30                slDMAWait
+ SLPROG         0x06025c40       0x20 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA00.o)
+                0x06025c54                get_imask
+                0x06025c40                set_imask
+                0x06025c40                _builtin_set_imask
+                0x06025c54                _builtin_get_imask
+ SLPROG         0x06025c60      0x42c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA20.o)
+                0x06025c60                slInitMatrix
+                0x06025c7e                slUnitMatrix
+                0x06025c6a                slPushUnitMatrix
+ *fill*         0x0602608c        0x4 00
+ SLPROG         0x06026090      0xbd0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB000.o)
+                0x06026090                slInitScroll
+                0x060262f0                TVSizeTbl
+                0x060261e0                setASC_4to8
+                0x06026370                TVModeTbl
+                0x060261b0                setASC_1to8
+                0x06026548                SGL_ASCII_CG
+ SLPROG         0x06026c60      0x3d0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ01.o)
+                0x06026c60                SlaveControl
+                0x0602701c                ErasePolygonData
+ SLPROG         0x06027030      0x75c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglI00.o)
+                0x06027320                slInitInterrupt
+ *fill*         0x0602778c        0x4 00
+ SLPROG         0x06027790      0x134 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC00.o)
+                0x06027790                slInitSprite
+ *fill*         0x060278c4        0xc 00
+ SLPROG         0x060278d0       0xd4 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglB035.o)
+                0x060278d0                sl1MapRA
+                0x06027962                rbank_set
+ *fill*         0x060279a4        0xc 00
+ SLPROG         0x060279b0       0x40 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglC20.o)
+                0x060279b0                SpriteEntry
+ SLPROG         0x060279f0     0x411e ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglA01.o)
+                0x06027acc                sin_cos_index_tbl
+                0x060279f0                slSin
+                0x06027b0c                sin_tbl
+                0x06027a38                GetSinCos
+                0x06027a14                slCos
+ *fill*         0x0602bb0e        0x2 00
+ SLPROG         0x0602bb10      0x140 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ03.o)
+                0x0602bb10                sbMakeDMATable
+ SLPROG         0x0602bc50     0x12b8 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ02.o)
+                0x0602ce84                stvtc_1
+                0x0602cbbc                stvtc_4
+                0x0602cb7c                SetPolygon
+                0x0602cc74                stvtc_3
+                0x0602ceac                stvtc_0
+                0x0602cb84                SetPosition
+                0x0602be38                sbCalcPolygon
+                0x0602cb70                SetTexture
+                0x0602bc50                sbMakePolygon
+                0x0602ce98                stvtc_2
+ *fill*         0x0602cf08        0x8 00
+ SLPROG         0x0602cf10      0x470 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ04.o)
+                0x0602cfd4                sbMakeRotSprite
+                0x0602cf6e                sbMakeSprite
+ SLPROG         0x0602d380       0x3c ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglJ05.o)
+                0x0602d380                sbSortEntry
+ *fill*         0x0602d3bc        0x4 00
+ SLPROG         0x0602d3c0       0xf0 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglH03.o)
+                0x0602d424                slSmpcIntBack
+ SLPROG         0x0602d4b0       0x6a ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglM01.o)
+                0x0602d4dc                slSetDepthTbl
+                0x0602d50c                DepthWorkArea
+                0x0602d4b0                slSetDepthLimit
+                0x0602d51a                __slprog_end = .
+
+.tors           0x0602d520        0x0
+                0x0602d520                ___ctors = .
+ *(.ctors)
+                0x0602d520                ___ctors_end = .
+                0x0602d520                ___dtors = .
+ *(.dtors)
+                0x0602d520                ___dtors_end = .
+
+.data           0x0602d520      0x850
+ *(.data)
+ .data          0x0602d520       0x1c ../Compiler/SGL_302j/lib_coff/libcpk.a(slavesh.o)
+                0x0602d530                SMPC_COM
+                0x0602d520                SlaveCommand
+                0x0602d538                SMPC_SF
+                0x0602d534                SMPC_RET
+                0x0602d528                SlaveParam
+                0x0602d524                SlaveState
+                0x0602d52c                SlaveSHEntry
+ *fill*         0x0602d53c        0x4 00
+ .data          0x0602d540       0x80 ../Compiler/SGL_302j/lib_coff/LIBSGL.A(sglIc0.o)
+                0x0602d540                IntPrioMask
+ .data          0x0602d5c0      0x380 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(impure.o)
+                0x0602d93c                _impure_ptr
+ .data          0x0602d940       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o)
+                0x0602d94c                __mb_cur_max
+                0x0602d940                __lc_ctype
+ .data          0x0602d960      0x410 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mallocr.o)
+                0x0602d968                __malloc_av_
+                0x0602d964                __malloc_trim_threshold
+                0x0602d960                __malloc_sbrk_base
+                0x0602dd70                __edata = .
+
+.bss            0x0602dd70     0x2f04
+                0x0602dd70                __bstart = .
+ *(.bss)
+ .bss           0x0602dd70       0x10 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+ .bss           0x0602dd80        0x6 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_time.o)
+ *fill*         0x0602dd86        0xa 00
+ .bss           0x0602dd90        0xc ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+ *fill*         0x0602dd9c        0x4 00
+ .bss           0x0602dda0       0x28 ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+ *fill*         0x0602ddc8        0x8 00
+ .bss           0x0602ddd0        0xc ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_TRN.O)
+ *fill*         0x0602dddc        0x4 00
+ .bss           0x0602dde0        0xc ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_SUB.O)
+ *fill*         0x0602ddec        0x4 00
+ .bss           0x0602ddf0        0x2 ../Compiler/SGL_302j/lib_coff/LIBCD.A(CDC_REG.O)
+ *fill*         0x0602ddf2        0xe 00
+ .bss           0x0602de00        0x4 ../Compiler/SGL_302j/lib_coff/SEGA_SYS.A(sys_exit.o)
+ *fill*         0x0602de04        0xc 00
+ .bss           0x0602de10       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(__main.o)
+ .bss           0x0602de20       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(atexit.o)
+ .bss           0x0602de30       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o)
+                0x0602de34                __mlocale_changed
+                0x0602de30                _PathLocale
+                0x0602de38                __nlocale_changed
+ .bss           0x0602de40       0x40 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mallocr.o)
+                0x0602de70                __malloc_top_pad
+                0x0602de40                __malloc_current_mallinfo
+                0x0602de6c                __malloc_max_sbrked_mem
+                0x0602de68                __malloc_max_total_mem
+ .bss           0x0602de80       0x10 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+ *(COMMON)
+ COMMON         0x0602de90       0x34 main.o
+                0x0602de90                physics
+                0x0602dec0                gameState
+ *fill*         0x0602dec4        0xc 00
+ COMMON         0x0602ded0       0x44 alex.o
+                0x0602ded0                player
+ *fill*         0x0602df14        0xc 00
+ COMMON         0x0602df20      0x134 enemy.o
+                0x0602df20                enemy_sprite_id
+                0x0602df24                sprite_id
+                0x0602df30                enemies
+                0x0602e050                enemy_death_sprite_id
+ *fill*         0x0602e054        0xc 00
+ COMMON         0x0602e060       0xb0 pickup.o
+                0x0602e060                pickup_sprite_id
+                0x0602e070                pickups
+ COMMON         0x0602e110      0x578 block.o
+                0x0602e110                blocks
+ *fill*         0x0602e688        0x8 00
+ COMMON         0x0602e690        0x4 ../jo_engine/video.o
+                0x0602e690                __jo_video_sprite_id
+ *fill*         0x0602e694        0xc 00
+ COMMON         0x0602e6a0       0x40 ../jo_engine/core.o
+                0x0602e6a0                __jo_last_error
+ COMMON         0x0602e6e0        0x4 ../jo_engine/fs.o
+                0x0602e6e0                __jo_fs_background_job_count
+ *fill*         0x0602e6e4        0xc 00
+ COMMON         0x0602e6f0       0x40 ../jo_engine/tools.o
+                0x0602e6f0                __jo_sprintf_buf
+ COMMON         0x0602e730     0x13f8 ../jo_engine/sprites.o
+                0x0602e730                __jo_sprite_def
+                0x0602ef30                __jo_hash_table
+                0x0602f330                __jo_sprite_pic
+ *fill*         0x0602fb28        0x8 00
+ COMMON         0x0602fb30       0xc0 ../jo_engine/sprite_animator.o
+                0x0602fb30                __jo_sprite_anim_tab
+ COMMON         0x0602fbf0        0x4 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_lib.o)
+                0x0602fbf0                CPK_lib_stm_init
+ *fill*         0x0602fbf4        0xc 00
+ COMMON         0x0602fc00       0xc8 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_mp.o)
+                0x0602fc00                cpk_cnt_vbl_in
+                0x0602fc04                cpk_err_func
+                0x0602fc08                cpk_system_status
+                0x0602fc0c                cpk_cpu
+                0x0602fc10                cpk_hn_mask
+                0x0602fc14                cpk_hn_next
+                0x0602fc20                cpk_hn_tbl
+                0x0602fca0                cpk_version
+                0x0602fcc0                cpk_err_code
+                0x0602fcc4                cpk_err_obj
+ *fill*         0x0602fcc8        0x8 00
+ COMMON         0x0602fcd0       0x24 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_deb.o)
+                0x0602fcd0                cpkd_sys
+ *fill*         0x0602fcf4        0xc 00
+ COMMON         0x0602fd00      0xf20 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_vide.o)
+                0x0602fd00                cpk_kikakuka_0_31_tbl
+                0x0602fe80                cpk_process_copy_cb_tbl
+                0x0602fea0                cpk_kikakuka_0_255_tbl
+                0x06030aa0                cpk_process_tbl
+ COMMON         0x06030c20        0x8 ../Compiler/SGL_302j/lib_coff/libcpk.a(cpk_audi.o)
+                0x06030c20                cpk_pcm_play_address_last
+ *fill*         0x06030c28        0x8 00
+ COMMON         0x06030c30        0x8 ../Compiler/SGL_302j/lib_coff/LIBSND.a(snd_main.o)
+                0x06030c30                snd_adr_sys_int_work
+                0x06030c34                snd_msk_work_work
+ *fill*         0x06030c38        0x8 00
+ COMMON         0x06030c40        0xc ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS.O)
+                0x06030c40                GFMC_base
+                0x06030c44                gfs_mng_ptr
+                0x06030c48                gfs_use_scudma
+ *fill*         0x06030c4c        0x4 00
+ COMMON         0x06030c50        0x8 ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDF.O)
+                0x06030c50                gfcf_fad
+                0x06030c54                gfcf_stat
+ *fill*         0x06030c58        0x8 00
+ COMMON         0x06030c60        0xc ../Compiler/SGL_302j/lib_coff/LIBCD.A(GFS_CDC.O)
+                0x06030c60                gfcd_fatal_err
+                0x06030c64                gfcd_work
+                0x06030c68                gfcd_playflag
+ *fill*         0x06030c6c        0x4 00
+ COMMON         0x06030c70        0x4 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+                0x06030c70                errno
+                0x06030c74                __bend = .
+                0x06030c74                _end = .
+LOAD ../Compiler/COMMON/cinit.o
+LOAD ../Compiler/SGL_302j/lib_coff/sglarea.o
+LOAD main.o
+LOAD alex.o
+LOAD title.o
+LOAD pause.o
+LOAD enemy.o
+LOAD pickup.o
+LOAD block.o
+LOAD ../jo_engine/video.o
+LOAD ../jo_engine/tga.o
+LOAD ../jo_engine/audio.o
+LOAD ../jo_engine/font.o
+LOAD ../jo_engine/input.o
+LOAD ../jo_engine/physics.o
+LOAD ../jo_engine/core.o
+LOAD ../jo_engine/math.o
+LOAD ../jo_engine/malloc.o
+LOAD ../jo_engine/fs.o
+LOAD ../jo_engine/tools.o
+LOAD ../jo_engine/sprites.o
+LOAD ../jo_engine/map.o
+LOAD ../jo_engine/list.o
+LOAD ../jo_engine/sprite_animator.o
+LOAD ../jo_engine/image.o
+LOAD ../jo_engine/background.o
+LOAD ../jo_engine/time.o
+LOAD ../jo_engine/vdp1_command_pipeline.o
+LOAD ../Compiler/SGL_302j/lib_coff/libcpk.a
+LOAD ../Compiler/SGL_302j/lib_coff/LIBSND.a
+LOAD ../Compiler/SGL_302j/lib_coff/LIBCD.A
+LOAD ../Compiler/SGL_302j/lib_coff/LIBSGL.A
+LOAD ../Compiler/SGL_302j/lib_coff/SEGA_SYS.A
+LOAD z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a
+LOAD z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a
+LOAD z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a
+OUTPUT(sl_coff.coff coff-sh)
+
+.text.ma        0x06030c80      0x270
+ .text.ma       0x06030c80       0x60 ../Compiler/COMMON/cinit.o
+                0x06030c80                main
+ .text.ma       0x06030ce0      0x210 main.o
+                0x06030d40                make_alex_jump
+                0x06030d60                make_alex_punch
+                0x06030ce0                make_alex_respawn
+
+.bss.pau        0x06030ef0       0x10
+ .bss.pau       0x06030ef0       0x10 main.o
+                0x06030ef0                pauseTimer
+
+.bss.pun        0x06030f00       0x10
+ .bss.pun       0x06030f00       0x10 main.o
+                0x06030f00                punchTimer
+
+.data.ma        0x06030f10       0x20
+ .data.ma       0x06030f10       0x10 main.o
+ .data.ma       0x06030f20       0x10 pause.o
+
+.text.cr        0x06030f30      0x560
+ .text.cr       0x06030f30      0x560 main.o
+                0x06031420                create_pickups
+                0x06030f80                create_block
+                0x06030f60                create_pickup
+                0x06030fb0                create_blocks
+                0x060312b0                create_enemies
+                0x06030f30                create_enemy
+
+.text.lo        0x06031490      0x340
+ .text.lo       0x06031490       0x60 main.o
+                0x06031490                load_map
+ .text.lo       0x060314f0       0xa0 alex.o
+                0x060314f0                load_alex
+ .text.lo       0x06031590       0xb0 title.o
+                0x06031590                load_title
+ .text.lo       0x06031640       0x60 pause.o
+                0x06031640                load_pause
+ .text.lo       0x060316a0       0x80 enemy.o
+                0x060316a0                load_enemy
+ .text.lo       0x06031720       0x40 pickup.o
+                0x06031720                load_pickup
+ .text.lo       0x06031760       0x70 block.o
+                0x06031760                load_block
+
+.text.ca        0x060317d0       0x50
+ .text.ca       0x060317d0       0x50 main.o
+                0x060317d0                camera_handling
+
+.text.ha        0x06031820      0x5a0
+ .text.ha       0x06031820      0x5a0 main.o
+                0x06031890                has_vertical_collision
+                0x06031820                handle_pickup_item
+                0x06031a60                has_vertical_collision_with_block
+                0x06031b30                has_horizontal_collision
+
+.text.dr        0x06031dc0      0x1e0
+ .text.dr       0x06031dc0      0x1e0 main.o
+                0x06031dc0                draw_game
+
+.text.re        0x06031fa0      0x150
+ .text.re       0x06031fa0      0x150 main.o
+                0x06031fa0                reset_demo
+
+.text.in        0x060320f0      0x5a0
+ .text.in       0x060320f0      0x5a0 main.o
+                0x060320f0                input_handler
+
+.text.ss        0x06032690      0x120
+ .text.ss       0x06032690      0x120 main.o
+                0x06032690                ss_main
+
+.text.up        0x060327b0      0x860
+ .text.up       0x060327b0      0x7e0 main.o
+                0x060327b0                update_game
+ .text.up       0x06032f90       0x70 enemy.o
+                0x06032f90                update_enemy
+ .text.up       0x06033000       0x10 pickup.o
+                0x06033000                update_pickup
+
+.text.al        0x06033010      0x790
+ .text.al       0x06033010      0x570 main.o
+                0x06033010                alex_collision_handling
+ .text.al       0x06033580      0x220 alex.o
+                0x060335a0                alex_running_animation_handler
+                0x06033580                alex_jump_animation_handler
+
+.data.al        0x060337a0       0x10
+ .data.al       0x060337a0       0x10 alex.o
+
+.rodata.        0x060337b0      0x5d0
+ .rodata.       0x060337b0       0xc0 alex.o
+ .rodata.       0x06033870       0x50 ../jo_engine/video.o
+ .rodata.       0x060338c0       0x60 ../jo_engine/tga.o
+ .rodata.       0x06033920       0x80 ../jo_engine/audio.o
+ .rodata.       0x060339a0       0x40 ../jo_engine/font.o
+ .rodata.       0x060339e0       0xb0 ../jo_engine/core.o
+ .rodata.       0x06033a90       0x10 ../jo_engine/math.o
+ .rodata.       0x06033aa0       0x60 ../jo_engine/malloc.o
+ .rodata.       0x06033b00       0x90 ../jo_engine/fs.o
+ .rodata.       0x06033b90       0x40 ../jo_engine/tools.o
+ .rodata.       0x06033bd0       0x80 ../jo_engine/sprites.o
+ .rodata.       0x06033c50       0x30 ../jo_engine/map.o
+ .rodata.       0x06033c80       0x10 ../jo_engine/list.o
+ .rodata.       0x06033c90       0x30 ../jo_engine/sprite_animator.o
+ .rodata.       0x06033cc0       0xc0 ../jo_engine/image.o
+
+.text.di        0x06033d80      0x9d0
+ .text.di       0x06033d80      0x380 alex.o
+                0x06033dd0                display_alex
+                0x06033d80                display_alex_death
+ .text.di       0x06034100      0x230 title.o
+                0x06034100                display_title
+ .text.di       0x06034330      0x140 pause.o
+                0x06034330                display_pause
+ .text.di       0x06034470      0x150 enemy.o
+                0x060344e0                display_enemy
+                0x06034470                display_enemy_death
+ .text.di       0x060345c0       0x40 pickup.o
+                0x060345c0                display_pickup
+ .text.di       0x06034600      0x150 block.o
+                0x06034600                display_block
+
+.text.ge        0x06034750       0x30
+ .text.ge       0x06034750       0x10 alex.o
+                0x06034750                get_alex_sprite_id
+ .text.ge       0x06034760       0x20 block.o
+                0x06034760                get_block_sprite_id
+
+.text.un        0x06034780       0xf0
+ .text.un       0x06034780       0x40 alex.o
+                0x06034780                unload_alex
+ .text.un       0x060347c0       0x30 title.o
+                0x060347c0                unload_title
+ .text.un       0x060347f0       0x30 pause.o
+                0x060347f0                unload_pause
+ .text.un       0x06034820       0x30 enemy.o
+                0x06034820                unload_enemy
+ .text.un       0x06034850       0x10 pickup.o
+                0x06034850                unload_pickup
+ .text.un       0x06034860       0x10 block.o
+                0x06034860                unload_block
+
+.bss.gam        0x06034870       0x10
+ .bss.gam       0x06034870       0x10 title.o
+                0x06034870                gameStarted
+
+.bss.tit        0x06034880       0x10
+ .bss.tit       0x06034880       0x10 title.o
+                0x06034880                titleTimer
+
+.data.im        0x06034890       0x10
+ .data.im       0x06034890       0x10 title.o
+
+.data.ti        0x060348a0       0x10
+ .data.ti       0x060348a0       0x10 title.o
+
+.data.Ti        0x060348b0       0x30
+ .data.Ti       0x060348b0       0x30 title.o
+
+.data.Lo        0x060348e0       0x20
+ .data.Lo       0x060348e0       0x20 title.o
+
+.text.ga        0x06034900       0x10
+ .text.ga       0x06034900       0x10 title.o
+                0x06034900                game_started
+
+.data.pa        0x06034910       0x10
+ .data.pa       0x06034910       0x10 pause.o
+
+.data.Pa        0x06034920       0x50
+ .data.Pa       0x06034920       0x50 pause.o
+
+.data.En        0x06034970       0x10
+ .data.En       0x06034970       0x10 enemy.o
+
+.text.co        0x06034980      0x140
+ .text.co       0x06034980       0xa0 enemy.o
+                0x06034980                collision_with_enemy
+ .text.co       0x06034a20       0xa0 pickup.o
+                0x06034a20                collision_with_pickup
+
+.data.It        0x06034ac0       0x30
+ .data.It       0x06034ac0       0x30 pickup.o
+
+.data.br        0x06034af0       0x10
+ .data.br       0x06034af0       0x10 block.o
+
+.data.bl        0x06034b00       0x10
+ .data.bl       0x06034b00       0x10 block.o
+
+.data.Br        0x06034b10       0x20
+ .data.Br       0x06034b10       0x20 block.o
+
+.data.Bl        0x06034b30       0x30
+ .data.Bl       0x06034b30       0x30 block.o
+
+.text.jo        0x06034b60     0x5c00
+ .text.jo       0x06034b60      0x470 ../jo_engine/video.o
+                0x06034e40                jo_video_pause
+                0x06034f60                jo_video_init
+                0x06034b60                jo_video_stop
+                0x06034bf0                jo_video_open_file
+                0x06034ea0                jo_video_play
+ .text.jo       0x06034fd0      0x720 ../jo_engine/tga.o
+                0x06035450                jo_tga_loader_from_stream
+                0x060355c0                jo_sprite_add_tga
+                0x060354c0                jo_sprite_add_tga_from_stream
+                0x060353e0                jo_tga_loader
+                0x06034fd0                jo_sprite_add_tga_tileset
+ .text.jo       0x060356f0      0x420 ../jo_engine/audio.o
+                0x06035760                jo_audio_init
+                0x06035940                jo_audio_usage_percent
+                0x060359a0                jo_audio_free_pcm
+                0x06035740                jo_audio_stop_cd
+                0x060357b0                jo_audio_play_sound_on_channel
+                0x06035890                jo_audio_play_sound
+                0x060359e0                jo_audio_stop_sound
+                0x06035aa0                jo_audio_load_pcm
+                0x060356f0                jo_audio_play_cd_track
+                0x06035730                jo_audio_set_volume
+ .text.jo       0x06035b10      0x5a0 ../jo_engine/font.o
+                0x06035de0                jo_font_print_centered
+                0x06035f70                jo_font_print
+                0x06035b10                jo_font_load
+ .text.jo       0x060360b0       0x70 ../jo_engine/input.o
+                0x060360b0                jo_get_input_type
+ .text.jo       0x06036120      0x880 ../jo_engine/core.o
+                0x06036140                jo_core_wait_for_slave
+                0x06036250                jo_core_suspend
+                0x06036530                jo_core_add_callback
+                0x06036170                jo_core_exec_on_slave
+                0x06036890                jo_core_run
+                0x060361a0                jo_palette_to_cram
+                0x06036430                jo_core_remove_slave_callback
+                0x060363d0                jo_dump_vdp1_registers
+                0x06036190                jo_goto_boot_menu
+                0x06036480                jo_core_add_slave_callback
+                0x060364e0                jo_core_remove_callback
+                0x06036370                jo_dump_vdp2_registers
+                0x060361e0                jo_map_to_vram
+                0x060361c0                jo_cell_to_vram
+                0x060365c0                jo_core_init
+ .text.jo       0x060369a0      0x520 ../jo_engine/math.o
+                0x060369a0                jo_random
+                0x06036d70                jo_planar_rotate
+                0x06036c80                jo_sqrt
+                0x06036ce0                jo_gcd
+                0x06036a10                jo_atan2f_rad
+ .text.jo       0x06036ec0      0x4a0 ../jo_engine/malloc.o
+                0x060372b0                jo_memory_fragmentation
+                0x06037120                jo_memory_usage_percent
+                0x06036ec0                jo_add_memory_zone
+                0x06037070                jo_free
+                0x06036f00                jo_malloc_with_behaviour
+ .text.jo       0x06037360      0x880 ../jo_engine/fs.o
+                0x06037720                jo_fs_read_file
+                0x06037360                jo_fs_init
+                0x060378a0                jo_fs_open
+                0x060374e0                jo_fs_read_file_async
+                0x06037ae0                jo_fs_close
+                0x06037a00                jo_fs_read_next_bytes
+                0x060376b0                jo_fs_cd
+                0x060373f0                jo_fs_do_background_jobs
+                0x06037b40                jo_fs_read_file_in_dir
+ .text.jo       0x06037be0      0x510 ../jo_engine/tools.o
+                0x06038000                jo_endwith
+                0x06037ea0                jo_getdate
+                0x06037cd0                jo_clear_screen
+                0x06037db0                jo_strlen
+                0x06037c40                jo_get_current_language
+                0x06037d20                jo_tools_atoi
+                0x06037be0                jo_print
+                0x06037e10                jo_memset
+ .text.jo       0x060380f0      0x7a0 ../jo_engine/sprites.o
+                0x06038590                jo_sprite_usage_percent
+                0x06038640                jo_sprite_add_8bits_image
+                0x06038700                jo_sprite_draw
+                0x060380f0                jo_get_last_sprite_id
+                0x06038190                jo_sprite_init
+                0x060381c0                jo_sprite_name2id
+                0x06038420                jo_sprite_draw_rotate
+                0x06038270                jo_sprite_replace
+                0x060383f0                jo_set_gouraud_shading_colors
+                0x06038100                jo_sprite_free_from
+                0x06038840                jo_set_gouraud_shading_brightness
+                0x060386a0                jo_sprite_add
+ .text.jo       0x06038890      0xd40 ../jo_engine/map.o
+                0x06038bc0                jo_map_per_pixel_vertical_collision
+                0x06038da0                jo_map_draw
+                0x06038890                jo_map_create
+                0x06038eb0                jo_map_add_tile
+                0x06038f50                jo_map_add_animated_tile
+                0x06039010                jo_map_load_from_file
+                0x060389d0                jo_map_free
+                0x060389f0                jo_map_move_tiles_by_attribute
+                0x06038b20                jo_map_hitbox_detection_custom_boundaries
+                0x06038910                jo_map_draw_background
+ .text.jo       0x060395d0      0x140 ../jo_engine/list.o
+                0x060395d0                jo_list_remove
+                0x06039660                jo_list_init
+                0x06039670                jo_list_add
+ .text.jo       0x06039710      0x200 ../jo_engine/sprite_animator.o
+                0x060398e0                jo_clear_all_sprite_anim
+                0x060397f0                jo_create_sprite_anim
+                0x06039710                jo_replace_sprite_anim
+ .text.jo       0x06039910      0x9b0 ../jo_engine/image.o
+                0x06039910                jo_free_img
+                0x06039d60                jo_sprite_add_image_pack
+                0x06039960                jo_replace_color
+                0x06039ad0                jo_sprite_add_bin_from_stream
+                0x060399d0                jo_bin_loader_from_stream
+                0x0603a030                jo_sprite_add_bin_tileset
+                0x06039f40                jo_bin_loader
+                0x06039b90                jo_sprite_add_bin
+ .text.jo       0x0603a2c0      0x230 ../jo_engine/background.o
+                0x0603a3a0                jo_clear_background
+                0x0603a400                jo_set_background_sprite
+                0x0603a2c0                jo_draw_background_line
+ .text.jo       0x0603a4f0      0x270 ../jo_engine/time.o
+                0x0603a730                jo_time_init
+                0x0603a4f0                jo_get_ticks
+
+.text.__        0x0603a760      0x6f0
+ .text.__       0x0603a760       0xb0 ../jo_engine/video.o
+ .text.__       0x0603a810      0x130 ../jo_engine/tga.o
+                0x0603a810                __jo_tga_load
+ .text.__       0x0603a940      0x240 ../jo_engine/core.o
+                0x0603a950                __jo_core_error
+ .text.__       0x0603ab80      0x1d0 ../jo_engine/sprites.o
+                0x0603ab80                __internal_jo_sprite_add
+ .text.__       0x0603ad50       0xa0 ../jo_engine/sprite_animator.o
+ .text.__       0x0603adf0       0x60 ../jo_engine/image.o
+                0x0603adf0                __jo_bin_load
+
+.bss.__j        0x0603ae50     0x2600
+ .bss.__j       0x0603ae50       0x30 ../jo_engine/video.o
+ .bss.__j       0x0603ae80       0x10 ../jo_engine/core.o
+                0x0603ae80                __jo_slave_done_flag
+ .bss.__j       0x0603ae90       0x10 ../jo_engine/malloc.o
+ .bss.__j       0x0603aea0     0x2590 ../jo_engine/fs.o
+ .bss.__j       0x0603d430       0x10 ../jo_engine/sprites.o
+ .bss.__j       0x0603d440       0x10 ../jo_engine/sprite_animator.o
+
+.data.sd        0x0603d450     0x6800
+ .data.sd       0x0603d450     0x6800 ../jo_engine/audio.o
+                0x0603d450                sddrvstsk
+
+.data.__        0x06043c50       0x90
+ .data.__       0x06043c50       0x40 ../jo_engine/audio.o
+ .data.__       0x06043c90       0x10 ../jo_engine/math.o
+ .data.__       0x06043ca0       0x30 ../jo_engine/sprites.o
+                0x06043cb0                __jo_sprite_attributes
+                0x06043ca4                __jo_sprite_pos
+                0x06043ca0                __jo_gouraud_shading_runtime_index
+ .data.__       0x06043cd0       0x10 ../jo_engine/sprite_animator.o
+
+.bss.glo        0x06043ce0    0x40000
+ .bss.glo       0x06043ce0    0x40000 ../jo_engine/core.o
+
+.bss.__s        0x06083ce0       0x10
+ .bss.__s       0x06083ce0       0x10 ../jo_engine/core.o
+
+.bss.__c        0x06083cf0       0x10
+ .bss.__c       0x06083cf0       0x10 ../jo_engine/core.o
+
+.data.Jo        0x06083d00      0xb40
+ .data.Jo       0x06083d00      0xb40 ../jo_engine/math.o
+                0x060842a0                JoSinLookupTable
+                0x06083d00                JoCosLookupTable
+
+.bss.mem        0x06084840       0x70
+ .bss.mem       0x06084840       0x70 ../jo_engine/malloc.o
+
+.bss.gl_        0x060848b0       0x50
+ .bss.gl_       0x060848b0       0x50 ../jo_engine/map.o
+
+.bss.tic        0x06084900       0x10
+ .bss.tic       0x06084900       0x10 ../jo_engine/time.o
+
+.comment        0x06084910      0x9a0
+ .comment       0x06084910       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(__main.o)
+ .comment       0x06084930       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_sf.o)
+ .comment       0x06084950       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_sf.o)
+ .comment       0x06084970       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_sf.o)
+ .comment       0x06084990       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_sf.o)
+ .comment       0x060849b0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_le_sf.o)
+ .comment       0x060849d0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_sf.o)
+ .comment       0x060849f0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_sf.o)
+ .comment       0x06084a10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_si.o)
+ .comment       0x06084a30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_sf.o)
+ .comment       0x06084a50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_sf_to_df.o)
+ .comment       0x06084a70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_addsub_df.o)
+ .comment       0x06084a90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_sf.o)
+ .comment       0x06084ab0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_si_to_df.o)
+ .comment       0x06084ad0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_mul_df.o)
+ .comment       0x06084af0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_div_df.o)
+ .comment       0x06084b10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_df_to_si.o)
+ .comment       0x06084b30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_sf.o)
+ .comment       0x06084b50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_sf.o)
+ .comment       0x06084b70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_sf.o)
+ .comment       0x06084b90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_sf.o)
+ .comment       0x06084bb0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_muldi3.o)
+ .comment       0x06084bd0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_df.o)
+ .comment       0x06084bf0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_thenan_df.o)
+ .comment       0x06084c10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_unpack_df.o)
+ .comment       0x06084c30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_pack_df.o)
+ .comment       0x06084c50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_make_sf.o)
+ .comment       0x06084c70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sprintf.o)
+ .comment       0x06084c90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncpy.o)
+ .comment       0x06084cb0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memcmp.o)
+ .comment       0x06084cd0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(strncmp.o)
+ .comment       0x06084cf0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(atexit.o)
+ .comment       0x06084d10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(vfprintf.o)
+ .comment       0x06084d30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(impure.o)
+ .comment       0x06084d50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(malloc.o)
+ .comment       0x06084d70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fvwrite.o)
+ .comment       0x06084d90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(locale.o)
+ .comment       0x06084db0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(freer.o)
+ .comment       0x06084dd0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(findfp.o)
+ .comment       0x06084df0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fflush.o)
+ .comment       0x06084e10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wsetup.o)
+ .comment       0x06084e30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcrtomb.o)
+ .comment       0x06084e50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isinf.o)
+ .comment       0x06084e70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memchr.o)
+ .comment       0x06084e90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mallocr.o)
+ .comment       0x06084eb0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wcsrtombs.o)
+ .comment       0x06084ed0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(s_isnan.o)
+ .comment       0x06084ef0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(dtoa.o)
+ .comment       0x06084f10       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(memmove.o)
+ .comment       0x06084f30       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(reallocr.o)
+ .comment       0x06084f50       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mlock.o)
+ .comment       0x06084f70       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(sbrkr.o)
+ .comment       0x06084f90       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(stdio.o)
+ .comment       0x06084fb0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fclose.o)
+ .comment       0x06084fd0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fwalk.o)
+ .comment       0x06084ff0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(makebuf.o)
+ .comment       0x06085010       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(wctomb_r.o)
+ .comment       0x06085030       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(mprec.o)
+ .comment       0x06085050       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(syscalls.o)
+ .comment       0x06085070       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(readr.o)
+ .comment       0x06085090       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(writer.o)
+ .comment       0x060850b0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(lseekr.o)
+ .comment       0x060850d0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(closer.o)
+ .comment       0x060850f0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(fstatr.o)
+ .comment       0x06085110       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(callocr.o)
+ .comment       0x06085130       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(abort.o)
+ .comment       0x06085150       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signal.o)
+ .comment       0x06085170       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601/../../../../sh-coff/lib\libc.a(signalr.o)
+ .comment       0x06085190       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_eq_df.o)
+ .comment       0x060851b0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ne_df.o)
+ .comment       0x060851d0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_lt_df.o)
+ .comment       0x060851f0       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_udivdi3.o)
+ .comment       0x06085210       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_umoddi3.o)
+ .comment       0x06085230       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_gt_df.o)
+ .comment       0x06085250       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_ge_df.o)
+ .comment       0x06085270       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_fpcmp_parts_df.o)
+ .comment       0x06085290       0x20 z:/software/my software/sega saturn jo engine/compiler/sh_coff/sh-coff/bin/../lib/gcc/sh-coff/4.0-GNUSH_v0601\libgcc.a(_clz.o)
